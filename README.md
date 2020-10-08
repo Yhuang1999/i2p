@@ -1,2 +1,2 @@
-# i2p
-introduction to programming
+# Introduction to programming (i2p)
+## My first step to ptython
